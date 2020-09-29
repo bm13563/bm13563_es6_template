@@ -1,6 +1,6 @@
 // export a function from a file
 export const helloWorldFunction = () => {
-    console.log("Hello, world!");
+    console.log("Hello Ben");
 }
 
 
