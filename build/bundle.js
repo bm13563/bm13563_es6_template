@@ -6,7 +6,7 @@
     // export a function from a file
     var helloWorldFunction = function helloWorldFunction() {
       console.log("Hello, world!");
-    }; // export a class from a file
+    };
 
     // import specific classes or functions from a file - useful for importing from external libraries
     helloWorldFunction();
